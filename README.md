@@ -1,4 +1,5 @@
 # my-first-github-respoitory
 my first github repository
 
-manual edit this was added locally
+
+this file was modified manually during conflict resolution
