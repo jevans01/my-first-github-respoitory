@@ -2,3 +2,5 @@ replaced in the feature 2 branch
 this file was modified locally
 
 newline from feature-2 branch
+
+another mod in feature-2 branch
